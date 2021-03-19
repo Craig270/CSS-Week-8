@@ -8,3 +8,18 @@ A table
 A form
 
 */
+
+body {
+  background-color: paleturquoise;
+}
+
+h1 {
+  color: palevioletred;
+  font-family: "Redressed", cursive;
+  font-size: 100px;
+}
+
+h3 {
+  color: palevioletred;
+  font-family: "Redressed", cursive;
+}
